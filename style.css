@@ -12,6 +12,7 @@ body{
 .container{
     /* vh = viewport height */
     height: 70vh;
+    display: flex;
     justify-content: center;
     align-items: center;
 }
